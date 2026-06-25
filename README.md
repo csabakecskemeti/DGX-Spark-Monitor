@@ -1,4 +1,6 @@
-# DGX Spark Monitor
+# DGX Spark Monitor by DevQuasar
+
+[![DevQuasar](https://devquasar.com/wp-content/uploads/2023/12/Black-logo-no-background-2048x505.png)](https://devquasar.com)
 
 A real-time monitoring dashboard for NVIDIA DGX Spark clusters. Monitor GPU utilization, memory usage, temperature, and service status across multiple nodes from a single interface.
 
@@ -169,4 +171,4 @@ If you find this useful, consider buying me a coffee:
 
 ## Author
 
-Created by DQ
+Created by [DevQuasar](https://devquasar.com)
