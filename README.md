@@ -90,7 +90,7 @@ On first launch, click the settings gear icon to configure your cluster nodes.
 ### Adding Nodes
 
 1. Click **+ Add Node** in the Configuration view
-2. Enter the node hostname (e.g., `spark-db71.local`)
+2. Enter the node hostname (e.g., `my-dgx-spark.local`)
 3. Enter SSH credentials (username and hostname)
 4. Specify GPU memory (128GB for DGX Spark)
 5. Mark one node as "Head" for service monitoring
