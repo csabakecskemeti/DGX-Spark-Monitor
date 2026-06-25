@@ -118,7 +118,7 @@ Define custom commands that can be executed on the head node:
 - **TEMP bar**: GPU temperature (green < 70°C, yellow < 85°C, red > 85°C)
 - **Service buttons**: Click to view service logs (vLLM, LiteLLM, Ray)
 - **RDMA**: View RDMA network status
-- **RUN**: Execute predefined commands
+- **RUN**: Execute predefined commands and aliases on head node
 
 ### Settings
 
