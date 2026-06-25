@@ -161,6 +161,12 @@ cd /path/to/dgx-spark-monitor
 
 This software is provided free of charge for personal and commercial use.
 
+## Support
+
+If you find this useful, consider buying me a coffee:
+
+<a href='https://ko-fi.com/L4L416YX7C' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ## Author
 
 Created by DQ
