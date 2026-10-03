@@ -4,7 +4,7 @@
 
 A real-time monitoring dashboard for NVIDIA DGX Spark clusters. Monitor GPU utilization, memory usage, temperature, and service status across multiple nodes from a single interface.
 
-![Rack-mounted 1U display showing DGX Spark Monitor](images/rack-screen/rack-dashboard-dark.jpg)
+![Rack-mounted 1U display showing DGX Spark Monitor](images/rack-screen/dgx-spark-monitor-4x.jpg)
 
 ## Features
 
